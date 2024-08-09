@@ -1,0 +1,2 @@
+# Secretary
+RAG - Ollama - LangChain
